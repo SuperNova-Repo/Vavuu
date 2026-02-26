@@ -1,11 +1,19 @@
 ---
-title: Vavuu
-emoji: 📊
-colorFrom: blue
-colorTo: red
+title: Vavuu IPTV
+emoji: 📺
+colorFrom: indigo
+colorTo: purple
 sdk: docker
-pinned: false
-license: cc-by-nc-nd-4.0
+app_port: 7860
+app_file: app.py
+pinned: true
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Vavuu IPTV
+
+Schnelle IPTV-Übersicht mit Gradio-UI und direkter Wiedergabe  
+
+Funktionen:
+- Länderfilter (DE/AT/CH/DACH/INT/Alle)
+- Galerie mit Logos + Klick → Sofort-Player
+- M3U-Download
