@@ -91,6 +91,4 @@ if __name__ == "__main__":
         server_name="0.0.0.0",
         server_port=7860,
         theme=gr.themes.Soft(),
-        css=".gradio-container {max-width: 1000px !important}",
-        share=False
-    )
+        css=".gradio-container {max-width: 1000px !important}", share=False)
