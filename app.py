@@ -360,7 +360,7 @@ FRONTEND = r"""<!DOCTYPE html>
 <header>
   <span style="font-size:1.4em;">📺</span>
   <h1>Vavuu Web Player</h1>
-  <span class="sub">Live-TV via Vavoo</span>
+  <span class="sub">Live-TV</span>
 </header>
 
 <div id="titlebar">
